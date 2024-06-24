@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safi21
-- 👀 I’m interested in Deep Learning and Computer Vision
-- 🌱 I’m currently learning Pytorch, Linear Algebra and Statistics.
+- 👀 I’m interested in Smart Textiles, Bioelectronics, and Deep Learning.
+- 🌱 I’m currently learning Pytorch, Linear Algebra, and Statistics.
 - 📫 You can reach me on sappiahmed@gmail.com
 
 <!---
